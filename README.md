@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Hadi Masoumi</h1>
 <h3 align="justify">I am a passionate frontend developer from Iran, but currently, I am living in Istanbul, Turkey.</h3>
-<h3 align="justify">During my professional experience I have worked on several private projects that I am not able to share with you :)</h3>
+<h3 align="justify">Over the years I have worked on several private projects and I am not able to share them with you :)</h3>
 <h3 align="justify">However, I am working on some personal projects and I will make them public soon.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
