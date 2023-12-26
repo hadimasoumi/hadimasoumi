@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Angular**
 
-- 📫 How to reach me **hadi.masoumi@outlook.com**
+- 📫 Reach me on **LinkedIn**
 
 
 <h3 align="left">Connect with me:</h3>
