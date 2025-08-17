@@ -4,7 +4,7 @@
 <h3 align="justify">However, I am working on some personal projects and I will make them public soon.</h3>
 
 
-- 🌱 I’m currently learning **React/Next Js** and **IONIC**
+- 🌱 I’m currently learning **React/Next Js**
 
 - 💬 Ask me about **Angular**
 
